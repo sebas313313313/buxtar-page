@@ -32,6 +32,33 @@ const en = {
     allies: 'Strategic partners',
   },
 
+  home: {
+    whatWeDo: {
+      badge: 'Our Proposal',
+      title: 'What do we do?',
+      description:
+        'Buxtar implements enterprise digital transformation by integrating digital technologies into all areas of companies, fundamentally changing how they operate and deliver value to their customers.',
+      features: {
+        digitalTransformation: 'Digital Transformation',
+        dataAnalysis: 'Data Analytics',
+        softwareDevelopment: 'Software Development',
+        mobileApps: 'Mobile Applications',
+        itConsulting: 'IT Consulting',
+        digitalMarketing: 'Digital Marketing',
+      },
+    },
+    values: {
+      badge: 'What drives us',
+      title: 'Our values',
+      missionTitle: 'Our Mission',
+      missionText:
+        'To create technological solutions and digital connections worldwide that improve business processes and positively impact people\'s quality of life.',
+      visionTitle: 'Our Vision',
+      visionText:
+        'To be strategic partners for companies to help them grow, expand, and implement new technologies, optimizing processes and costs while generating value for our clients\' brands.',
+    },
+  },
+
   services: {
     badge: 'What we do',
     title: 'Our Services',

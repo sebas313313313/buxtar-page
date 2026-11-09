@@ -32,6 +32,33 @@ const fr = {
     allies: 'Partenaires stratégiques',
   },
 
+  home: {
+    whatWeDo: {
+      badge: 'Notre Proposition',
+      title: 'Que faisons-nous ?',
+      description:
+        'Buxtar met en œuvre la transformation numérique des entreprises par l\'intégration des technologies numériques dans tous les domaines de l\'entreprise, changeant fondamentalement leur façon de fonctionner et d\'apporter de la valeur à leurs clients.',
+      features: {
+        digitalTransformation: 'Transformation Numérique',
+        dataAnalysis: 'Analyse de Données',
+        softwareDevelopment: 'Développement de Logiciels',
+        mobileApps: 'Applications Mobiles',
+        itConsulting: 'Conseil IT',
+        digitalMarketing: 'Marketing Numérique',
+      },
+    },
+    values: {
+      badge: 'Ce qui nous anime',
+      title: 'Nos valeurs',
+      missionTitle: 'Notre Mission',
+      missionText:
+        'Créer des solutions technologiques et des connexions numériques dans le monde entier qui améliorent les processus d\'entreprise et ont un impact positif sur la qualité de vie des personnes.',
+      visionTitle: 'Notre Vision',
+      visionText:
+        'Être des partenaires stratégiques des entreprises pour les aider dans leur croissance, leur expansion et la mise en œuvre de nouvelles technologies, afin d\'optimiser les processus et les coûts tout en générant de la valeur pour la marque de nos clients.',
+    },
+  },
+
   services: {
     badge: 'Ce que nous faisons',
     title: 'Nos Services',

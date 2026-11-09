@@ -35,6 +35,34 @@ const es = {
     allies: 'Aliados estratégicos',
   },
 
+  // Home (¿Qué hacemos? & Valores)
+  home: {
+    whatWeDo: {
+      badge: 'Nuestra Propuesta',
+      title: '¿Qué hacemos?',
+      description:
+        'Buxtar implementa la transformación digital empresarial por medio de la integración de tecnologías digitales en todas las áreas de las empresas, cambiando fundamentalmente la forma en que opera y brinda valor a sus clientes.',
+      features: {
+        digitalTransformation: 'Transformación Digital',
+        dataAnalysis: 'Análisis de Datos',
+        softwareDevelopment: 'Desarrollo de Software',
+        mobileApps: 'Aplicaciones Móviles',
+        itConsulting: 'Consultoría TI',
+        digitalMarketing: 'Marketing Digital',
+      },
+    },
+    values: {
+      badge: 'Lo que nos mueve',
+      title: 'Nuestros valores',
+      missionTitle: 'Nuestra Misión',
+      missionText:
+        'Crear soluciones tecnológicas y conexiones digitales en todo el mundo que mejoren los procesos empresariales e impacten positivamente en la calidad de vida de las personas.',
+      visionTitle: 'Nuestra Visión',
+      visionText:
+        'Ser aliados estratégicos de las empresas para ayudarles a su crecimiento, expansión e implementación de nuevas tecnologías, para optimizar procesos y costos, generando valor a la marca de nuestros clientes.',
+    },
+  },
+
   // Services
   services: {
     badge: 'Lo que hacemos',

@@ -32,6 +32,33 @@ const pt = {
     allies: 'Parceiros estratégicos',
   },
 
+  home: {
+    whatWeDo: {
+      badge: 'Nossa Proposta',
+      title: 'O que fazemos?',
+      description:
+        'A Buxtar implementa a transformação digital empresarial por meio da integração de tecnologias digitais em todas as áreas das empresas, mudando fundamentalmente a forma como operam e entregam valor aos seus clientes.',
+      features: {
+        digitalTransformation: 'Transformação Digital',
+        dataAnalysis: 'Análise de Dados',
+        softwareDevelopment: 'Desenvolvimento de Software',
+        mobileApps: 'Aplicativos Móveis',
+        itConsulting: 'Consultoria de TI',
+        digitalMarketing: 'Marketing Digital',
+      },
+    },
+    values: {
+      badge: 'O que nos move',
+      title: 'Nossos valores',
+      missionTitle: 'Nossa Missão',
+      missionText:
+        'Criar soluções tecnológicas e conexões digitais em todo o mundo que melhorem os processos empresariais e impactem positivamente a qualidade de vida das pessoas.',
+      visionTitle: 'Nossa Visão',
+      visionText:
+        'Ser parceiros estratégicos das empresas para ajudá-las em seu crescimento, expansão e implementação de novas tecnologias, otimizando processos e custos e gerando valor para a marca de nossos clientes.',
+    },
+  },
+
   services: {
     badge: 'O que fazemos',
     title: 'Nossos Serviços',
